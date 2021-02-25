@@ -4,6 +4,8 @@ font-family: pantelleria,sans-serif;
 font-weight: 400;
 font-style: normal;
 
+<!DOCTYPE html>
+<html>
 
 I think thats the import code for it
 Name: Tipoteca
@@ -11,3 +13,4 @@ Name: Tipoteca
 <link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
 <style> p {font-family:pantelleria,sans-serif;font-weight:400;font-style:normal;}</style>
 <p> TIPOTECA FONT </p>
+</html>
