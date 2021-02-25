@@ -1,15 +1,22 @@
-<link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
+<img src="CatalystLogoVF.png">
 
+Code for Tipoteca Font
+<link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
 font-family: pantelleria,sans-serif;
 font-weight: 400;
 font-style: normal;
 
+Colors (as used in the logo):
+Purple: rgb(163, 73, 164)
+Blue: rgb(63, 72, 204)
+Gray: rbg(127,127,127)
+Black: rgb(0,0,0)
 
-I think thats the import code for it
-Name: Tipoteca
-
+Ex in use:
 <link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
 <style> p {font-family:pantelleria,sans-serif;font-weight:400;font-style:normal;font-size:80px}</style>
 <p> TIPOTECA FONT </p>
+
+<p style="color:rgb(163, 73, 164)"> This Text is Purple </p>
 
 For non-heading sections of the website, use a serif font such as times new roman to convey a wiki/online encyclopedia style look to the mock-informational pages of the website
