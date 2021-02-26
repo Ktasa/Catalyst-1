@@ -8,11 +8,11 @@
 
 img { object-fit: cover; width: 100%;
     height: auto; }
-.red { color:red; font-family:serif;}
+.red { color:rgb(163, 73, 164); font-family:serif;}
 
-div.double {border-style:double;border-color:rgb(163, 73, 164);border-radius:5px;border-width:6px;background-color:rgb(0,0,0);box-shadow: 0px 0px 20px blue;}
+div.double {border-style:double;border-color:red;border-radius:5px;border-width:10px;background-color:rgb(0,0,0);box-shadow: 0px 0px 20px blue;}
 
-p.ridge {border-style:ridge;border-color:rgb(127,127,127);border-radius:10px;border-width:10px;padding: 40px 20px 40px 20px;text-align:left;background-color:rgb(10,10,10); box-shadow: 2px 2px 20px blue;
+p.ridge {border-style:ridge;border-color:rgb(127,127,127);border-radius:10px;border-width:15px;padding: 40px 20px 40px 20px;text-align:left;background-color:rgb(10,10,10); box-shadow: 2px 2px 20px blue;
 text-shadow: 0px 0px 4px blue;}
 
 </style>
