@@ -6,9 +6,11 @@
 <body style="background-color:rgb(0,0,0)">
 <style>
 
-img { object-fit: cover; width: 100%;
+img.logo { object-fit: cover; width: 100%;
     height: auto; }
-.red { color:rgb(163, 73, 164); font-family:serif;}
+img.picture { object-fit: cover; width: 70%;
+    height: auto; }
+.purple { color:rgb(163, 73, 164); font-family:serif;}
 
 .double {border-style:double;border-color:red;border-radius:5px;border-width:10px;background-color:rgb(0,0,0);box-shadow: 0px 0px 20px blue;}
 
@@ -18,7 +20,7 @@ text-shadow: 0px 0px 4px blue;}
 </style>
 
 <div class="double">
-<img src="https://lh3.googleusercontent.com/-gwN4pQO9J9g/YDdEedRlxvI/AAAAAAAABM0/C3bh7zTCnYsvv4b6C1F-d_QErR6g9OrEwCK8BGAsYHg/s0/CatalystLogoVF.png"></div>
+<img src="https://lh3.googleusercontent.com/-gwN4pQO9J9g/YDdEedRlxvI/AAAAAAAABM0/C3bh7zTCnYsvv4b6C1F-d_QErR6g9OrEwCK8BGAsYHg/s0/CatalystLogoVF.png" class="logo"></div>
 
 <a href="https://lh3.googleusercontent.com/-isQ5qiY2i0o/YDdJi_UGBtI/AAAAAAAABNU/rcaXBrvaooc9npFd4HIjpqwZ5xHh5HOswCK8BGAsYHg/s0/2021-02-24.jpg" title="Lee Meowgan" style="position: absolute; left: 77.93%; top: 3.47%; width: 19.34%; height: 93.06%; z-index: 2;"></a>
 
@@ -28,8 +30,9 @@ text-shadow: 0px 0px 4px blue;}
 .bodytext {font-size:35px;color:rgb(127,127,127);}
 </style>
 <div class="ridge">
-<p class="jazz"> #.15 <span class="red">John Catrane</span> </p>
-<img src="https://img.discogs.com/5QkY6ScPAZKuaHgbuLM0tvmTDq0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660545-1298740453.jpeg.jpg">
+<p class="jazz"> #.15 <span class="purple">John Catrane</span> </p>
+<img src="https://img.discogs.com/5QkY6ScPAZKuaHgbuLM0tvmTDq0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660545-1298740453.jpeg.jpg" class="picture">
+
 <p class="bodytext"> Known as one of the greatest jazz musicians of all time, John Coltrane is certainly a <span class="jazz"><em>cool cat</em></span>. Born in 1926 North Carolina, Trane first rose to fame when he invented the Suplex and performed it on one of his co-performers, the legendary Miles Davis.</p>
 </div>
 </body>
