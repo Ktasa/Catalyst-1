@@ -35,5 +35,7 @@ text-shadow: 0px 0px 4px blue;}
 
 <p class="bodytext"> Known as one of the greatest jazz musicians of all time, John Coltrane is certainly a <span class="jazz"><em>cool cat</em></span>. Born in 1926 North Carolina, Trane first rose to fame when he invented the Suplex and performed it on one of his co-performers, the legendary Miles Davis.</p>
 </div>
+
+<iframe width="0" height="0" src="https://www.youtube.com/embed/30FTr6G53VU?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
