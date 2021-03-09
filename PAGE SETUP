@@ -7,7 +7,7 @@
 <style>
 
 img.logo { object-fit: cover; width: 100%;
-    height: auto; }
+    height: auto; position:sticky;}
 img.picture { object-fit: cover; width: 70%;
     height: auto; }
 .purple { color:rgb(163, 73, 164); font-family:serif;}
