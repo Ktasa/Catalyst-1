@@ -6,6 +6,7 @@
 <body style="background-color:rgb(0,0,0)">
 <style>
 
+a { text-decoration:none;}
 img.logo { object-fit: cover; width: 100%;
     height: auto; }
 img.picture { object-fit: cover; width: 70%;
@@ -17,7 +18,7 @@ img.picture { object-fit: cover; width: 70%;
 .jazz:hover { color:red; font-size:90px;text-shadow: 0px 0px 4px red;text-shadow: 1px 1px 6px red;text-shadow: 2px 2px 8px red;}
 
 .double { border-style:double;border-color:red;border-radius:5px;border-width:10px;background-color:black;box-shadow: 0px 0px 20px blue; }
-.double:hover { border-style:double;border-color:blue;border-radius:5px;border-width:12px;background-color:rgb(0,0,0);box-shadow: 0px 0px 20px blue; cursor:pointer;}
+.double:hover { border-style:double;border-color:blue;border-radius:5px;border-width:16px;background-color:rgb(0,0,0);box-shadow: 0px 0px 20px blue; cursor:pointer;}
 
 .ridge {border-style:ridge;border-color:rgb(127,127,127);border-radius:10px;border-width:15px;padding: 40px 20px 40px 20px;text-align:left;background-color:rgb(10,10,10); box-shadow: 2px 2px 20px blue;
 text-shadow: 0px 0px 4px blue;}
@@ -25,24 +26,24 @@ text-shadow: 0px 0px 4px blue;}
 </style>
 
 <div class="double">
-<a href="https://cdn.discordapp.com/attachments/751719050081730604/808210301391732736/unknown.png">
+<a href="https://www.youtube.com/embed/Zkbljm7SREE?start=1190">
 <img src="https://lh3.googleusercontent.com/-gwN4pQO9J9g/YDdEedRlxvI/AAAAAAAABM0/C3bh7zTCnYsvv4b6C1F-d_QErR6g9OrEwCK8BGAsYHg/s0/CatalystLogoVF.png" class="logo">
 <p class="slogan"> There are a lot of cool cats out there... and boy are we going to list them. </p></a>
 <style> .slogan {font-size:20px;color:rgb(127,127,127);text-shadow: 1px 1px 6px blue;text-align:center;text-shadow: 0px 0px 4px red;text-shadow: 1px 1px 6px red;text-shadow: 2px 2px 8px red;}</style>
+<a href="https://lh3.googleusercontent.com/-LSr65Ou97sw/YEgLUg7HesI/AAAAAAAABOI/fvujmFhJi9cc2S77oGnjHgE3CupJ9C_bACLcBGAsYHQ/s0/AugTriad.PNG" title="Lee Meowgan" style="position: absolute; left: 77.93%; top: 3.47%; width: 19.34%; height: 93.06%; z-index: 2;"></a>
 </div>
-
-<a href="https://lh3.googleusercontent.com/-isQ5qiY2i0o/YDdJi_UGBtI/AAAAAAAABNU/rcaXBrvaooc9npFd4HIjpqwZ5xHh5HOswCK8BGAsYHg/s0/2021-02-24.jpg" title="Lee Meowgan" style="position: absolute; left: 77.93%; top: 3.47%; width: 19.34%; height: 93.06%; z-index: 2;"></a>
 
 </br>
 <link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
 <style> .jazz {font-family:pantelleria,sans-serif;font-size:40px;color:rgb(127,127,127);}
 .bodytext {font-size:35px;color:rgb(127,127,127);}
 </style>
-<div class="ridge">
-<p class="jazz"> #.15 <span class="purple">Yedi Beth</span></p>
-<img src="https://cdn.discordapp.com/attachments/751719050081730604/808210301391732736/unknown.png" class="picture">
+<div class="ridge"> 
+<p class="jazz"> #.15 <a href="https://www.youtube.com/embed/tbZkU49Ck2E"><span class="purple">Yedi Beth</span></p></a>
+<a href="https://www.youtube.com/embed/pAnK1y7qjuE">
+<img src="https://cdn.discordapp.com/attachments/751719050081730604/808210301391732736/unknown.png" class="picture"></a>
 
-<p class="bodytext"> There once was a boy named <span class="jazz"><em>YEDI BETH</em></span> and he went to <span class="jazz"><em>MIRA LOMA HIGH SCHOOL.</em></span></p>
+<p class="bodytext"> There once was a boy named <a href="https://cdn.discordapp.com/attachments/751719050081730604/808210301391732736/unknown.png"><span class="jazz"><em>YEDI BETH</em></a></span> and he went to <a href="http://rlhs.twinriversusd.org"><span class="jazz"><em>MIRA LOMA HIGH SCHOOL.</em></span></a></p>
 </div>
 </body>
 </html>
