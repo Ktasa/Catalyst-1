@@ -14,7 +14,6 @@ img.picture { object-fit: cover; width: 70%;
  img.picture:hover { object-fit: cover; width: 200%;
     height: auto; }
 .purple { color:rgb(163, 73, 164); font-family:serif;}
-.purple:hover { color:red; font-size:90px;text-shadow: 0px 0px 4px red;text-shadow: 1px 1px 6px red;text-shadow: 2px 2px 8px red;}
 .jazz:hover { color:red; font-size:90px;text-shadow: 0px 0px 4px red;text-shadow: 1px 1px 6px red;text-shadow: 2px 2px 8px red;}
 
 .double { border-style:double;border-color:red;border-radius:5px;border-width:10px;background-color:black;box-shadow: 0px 0px 20px blue; }
