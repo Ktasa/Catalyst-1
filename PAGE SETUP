@@ -3,6 +3,7 @@
 <head>
 <title></title>
 </head>
+<link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
 <body style="background-color:rgb(0,0,0)">
 <style>
 
@@ -12,7 +13,10 @@ img.picture { object-fit: cover; width: 70%;
     height: auto; }
 .purple { color:rgb(163, 73, 164); font-family:serif;}
 .purple:hover { color:red; font-size:90px;text-shadow: 0px 0px 4px red;text-shadow: 1px 1px 6px red;text-shadow: 2px 2px 8px red;}
+.jazz {font-family:pantelleria,sans-serif;font-size:40px;color:rgb(127,127,127);}
 .jazz:hover { color:red; font-size:90px;text-shadow: 0px 0px 4px red;text-shadow: 1px 1px 6px red;text-shadow: 2px 2px 8px red;}
+.jazznoeffect {font-family:pantelleria,sans-serif;font-size:40px;color:rgb(127,127,127);}
+.bodytext {font-size:35px;color:rgb(127,127,127);}
 
 .double { border-style:double;border-color:red;border-radius:5px;border-width:10px;background-color:black;box-shadow: 0px 0px 20px blue; }
 .double:hover { border-style:double;border-color:blue;border-radius:5px;border-width:16px;background-color:rgb(0,0,0);box-shadow: 0px 0px 20px blue; cursor:pointer;}
@@ -31,12 +35,8 @@ text-shadow: 0px 0px 4px blue;}
 </div>
 
 </br>
-<link rel="stylesheet" href="https://use.typekit.net/arv3pty.css">
-<style> .jazz {font-family:pantelleria,sans-serif;font-size:40px;color:rgb(127,127,127);}
-.bodytext {font-size:35px;color:rgb(127,127,127);}
-</style>
 <div class="ridge">
-<p class="jazz"> #.15 <span class="purple">John Catrane</span> </p>
+<p class="jazznoeffect"> #.15 <span class="purple">John Coltrane</span> </p>
 <img src="https://img.discogs.com/5QkY6ScPAZKuaHgbuLM0tvmTDq0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660545-1298740453.jpeg.jpg" class="picture">
 
 <p class="bodytext"> Known as one of the greatest jazz musicians of all time, John Coltrane is certainly a <span class="jazz"><em>cool cat</em></span>. Born in 1926 North Carolina, Trane first rose to fame when he invented the Suplex and performed it on one of his co-performers, the legendary Miles Davis.</p>
